@@ -1,0 +1,11 @@
+c:\users\villosa\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\Villosa\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\Villosa\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\Villosa\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\Villosa\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+C:\Users\Villosa\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\Villosa\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+C:\Users\Villosa\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\Villosa\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\Users\Villosa\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Villosa\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Debug\Newtonsoft.Json.xml
